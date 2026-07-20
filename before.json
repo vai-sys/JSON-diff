@@ -1,0 +1,18 @@
+{
+    "employee": {
+        "id": 101,
+        "name": "Alice",
+        "department": "IT",
+        "address": {
+            "city": "Pune",
+            "pin": 411001
+        }
+    },
+    "skills": ["Python", "SQL"],
+    "projects": [
+        {
+            "name": "ProjectA",
+            "status": "Active"
+        }
+    ]
+}
